@@ -1,0 +1,1 @@
+# First app flying solo here. The idea will be to start small (aka one static html page) and move on from there. Hopefully I'll learn a bit. We'll see how this goes.
